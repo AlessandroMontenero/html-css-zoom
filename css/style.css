@@ -60,6 +60,10 @@ main img {
     object-fit: cover;
 }
 
+.box:hover{
+    box-shadow: 0 0 0 5px green;
+}
+
 main .userinfo {
     position: absolute;
     bottom: 0;
