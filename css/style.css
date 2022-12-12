@@ -1,3 +1,25 @@
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 3rem;
+    min-width: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+header .button {
+    height: 2rem;
+    line-height: 2rem;
+    padding: 3px 4px;
+    border: 2px 4px;
+    margin: 5px 6px;
+    background-color: rgb(74, 74, 74);
+    color: white;
+    border-radius: 10px;
+}
+
 /* Footer */
 footer {
     position: fixed;
