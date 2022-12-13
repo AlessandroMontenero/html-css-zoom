@@ -1,3 +1,10 @@
+/* Generics */
+
+body {
+   background-color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
 /* Header */
 header {
     position: fixed;
@@ -22,10 +29,6 @@ header .button {
 }
 
 /* Main */
- 
-body {
-    background-color: black;
-}
 
 main {
     height: calc(100vh - 7rem);
@@ -95,7 +98,7 @@ footer {
 footer .button {
     position: relative;
     height: 100%;
-    min-width: 6rem;
+    min-width: 6.5rem;
     white-space: nowrap;
     color: white;
 }
